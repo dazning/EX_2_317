@@ -1,0 +1,11 @@
+ClienteID;Nombre;Apellido;Direccion;Telefono
+11;Luisa;Gomez;Calle789;3456789123
+12;Carlos;Rodriguez;Avenida456;5678901234
+13;Maria;Hernandez;PlazaPrincipal;9012345678
+14;Pedro;Lopez;Carrera123;1234567890
+15;Sofia;Martinez;Calle789;987654321
+16;Juan;Gonzalez;AvenidaCentral;2345678901
+17;Ana;Sanchez;PlazaCentral;4567890123
+18;Laura;Perez;CallePrincipal;7890123456
+19;Jorge;Torres;Avenida789;123456789
+20;Isabel;Gomez;Carrera456;3456789012
